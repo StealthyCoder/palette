@@ -18,11 +18,15 @@ This will contain some images plus some colours for the YSMenu used on a DS.
 
 ## Windows 3.11
 
-This will contain a palette/setup for Windows 3.11.
+This will contain a VGA 8-bit 256 color based one palette for Windows 3.11.
 
 ## Windows 95/98
 
 This will contain a palette/setup for Windows 95/98.
+
+- a VGA 8-bit 256 color based one
+- a SVGA 16-bit 65.536 color based one
+- a SVGA 32-bit 16.777.216 color based one
 
 ## MS-DOS
 
