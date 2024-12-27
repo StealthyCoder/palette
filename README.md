@@ -31,7 +31,10 @@ This will contain a palette/setup for Windows 95/98.
 ## MS-DOS
 
 This will contain a palette/setup for MS-DOS, and also a `PROMPT` configuration.
-That what is shown as the actual prompt. Will try to do one with and one without the need for ANSI.
+That what is shown as the actual prompt.
+
+- ANSI one
+- non-ANSI one
 
 ## TTY
 
