@@ -7,6 +7,8 @@ This repo will contain a somewhat universal palette, like [`catppuccin`](https:/
 The layout will be in each folder there will be a file describing how to use or configure the palette. Then it will also have a screenshot preview of what it will look like.
 Then the actual files needed will also be contained in there.
 
+> A note on the screenshot. I noticed taking screenshots does not necessarily convey the accurate result.
+
 ## Palette
 
 This will contain the universal palette, including background colour, text colours and so on.
@@ -18,7 +20,10 @@ This will contain some images plus some colours for the YSMenu used on a DS.
 
 ## Windows 3.11
 
-This will contain a VGA 8-bit 256 color based one palette for Windows 3.11.
+This will contain two VGA 8-bit 256 color based one palettes for Windows 3.11.
+
+- For modern monitors
+- For CRT/CRT-emulated monitors
 
 ## Windows 95/98
 
@@ -34,7 +39,8 @@ This will contain a palette/setup for MS-DOS, and also a `PROMPT` configuration.
 That what is shown as the actual prompt.
 
 - ANSI one
-- non-ANSI one
+- ~non-ANSI one~
+  This is sadly not possible. A possibility is to have the source code or binary to a program to change the color using DOS interrupts.
 
 ## TTY
 
