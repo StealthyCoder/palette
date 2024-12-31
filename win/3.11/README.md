@@ -29,17 +29,43 @@ color schemes=StealthyCoder
 
 [color schemes]
 ... Other color schemes
-StealthyCoder=D0005,FFFFFF,FFFFFF,0,FFFFFF,0,800000,FFFFFF,FFFF,C0C0C0,C0C0C0,0,C0C0C0,C0C0C0,808080,0,C0C0C0,800000,FFFFFF,0,FFFFFF
+StealthyCoder=60003,0,0,FF00FF,0,FF00FF,60003,8000FF,FFFFFF,8000FF,80FFFF,FF00FF,8000FF,FF00FF,60003,FFFFFF,FF00FF,FF00FF,FFFFFF,80FFFF,80FFFF
 
 [Custom Colors]
-ColorA=D0005
+ColorA=60003
 ```
 
 ### Create in Windows
 
 Or just create Custom Colors with the following RGB values:
 
-1. `R:5 G:0 B:13`
+1. `R:3 G:0 B:6`
+
+The following colors are need to be selected. The basic colors are a grid starting from the top left being 0,0.
+
+| Property                | Color           |
+| ----------------------- | --------------- |
+| Desktop                 | Custom Color 1  |
+| Application Workspace   | Basic color 0,5 |
+| Window Background       | Basic color 0,5 |
+| Window Text             | Basic color 7,2 |
+| Menu Bar                | Basic color 0,5 |
+| Menu Text               | Basic color 7,2 |
+| Active Title Bar        | Custom Color 1  |
+| Inactive Title Bar      | Basic color 7,2 |
+| Active Title Bar Text   | Basic color 1,1 |
+| Inactive Title Bar Text | Basic color 1,1 |
+| Active Border           | Basic color 7,2 |
+| Inactive Border         | Basic color 1,1 |
+| Window Frame            | Basic color 7,2 |
+| Scroll Bars             | Basic color 7,2 |
+| Button Face             | Basic color 7,2 |
+| Button Shadow           | Custom Color 1  |
+| Button Text             | Basic color 1,1 |
+| Button Highlight        | Basic color 1,1 |
+| Disabled Text           | Basic color 7,2 |
+| Highlight               | Basic color 7,2 |
+| Highlighted Text        | Basic color 1,1 |
 
 # CRT / CRT-emulated monitor
 
@@ -125,10 +151,12 @@ color schemes=StealthyCoder
 
 [color schemes]
 ... Other color schemes
-StealthyCoder=D0005,FFFFFF,FFFFFF,0,FFFFFF,0,800000,FFFFFF,FFFF,C0C0C0,C0C0C0,0,C0C0C0,C0C0C0,808080,0,C0C0C0,800000,FFFFFF,0,FFFFFF
+StealthyCoder=D0005,42000A,D0005,80FF,D0005,80FF,42000A,8A0037,80FF,80FF,FF0080,D0005,FF0080,FF0080,FF0080,D0005,FF00FF,FF0080,D0005,FF00FF,8A0037
 
 [Custom Colors]
 ColorA=D0005
+ColorB=42000A
+ColorC=8A0037
 ```
 
 ### Create in Windows
@@ -136,3 +164,31 @@ ColorA=D0005
 Or just create Custom Colors with the following RGB values:
 
 1. `R:5 G:0 B:13`
+2. `R:10 G:0 B:66`
+3. `R:55 G:0 B:138`
+
+The following colors are need to be selected. The basic colors are a grid starting from the top left being 0,0.
+
+| Property                | Color           |
+| ----------------------- | --------------- |
+| Desktop                 | Custom Color 1  |
+| Application Workspace   | Custom Color 2  |
+| Window Background       | Custom Color 1  |
+| Window Text             | Basic color 1,2 |
+| Menu Bar                | Custom Color 1  |
+| Menu Text               | Basic color 1,2 |
+| Active Title Bar        | Custom Color 2  |
+| Inactive Title Bar      | Custom Color 3  |
+| Active Title Bar Text   | Basic color 1,2 |
+| Inactive Title Bar Text | Basic color 7,1 |
+| Active Border           | Basic color 1,3 |
+| Inactive Border         | Basic color 7,3 |
+| Window Frame            | Custom Color 1  |
+| Scroll Bars             | Basic Color 7,3 |
+| Button Face             | Basic Color 7,1 |
+| Button Shadow           | Basic color 7,3 |
+| Button Text             | Custom Color 1  |
+| Button Highlight        | Custom Color 2  |
+| Disabled Text           | Basic Color 7,1 |
+| Highlight               | Basic color 7,1 |
+| Highlighted Text        | Custom Color 1  |
