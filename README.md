@@ -29,7 +29,8 @@ This will contain two VGA 8-bit 256 color based one palettes for Windows 3.11.
 
 This will contain a palette/setup for Windows 95/98.
 
-- a VGA 8-bit 256 color based one
+- a VGA 8-bit 256 color based one for modern monitors
+- a VGA 8-bit 256 color based one for CRT/CRT-emulated monitors
 - a SVGA 16-bit 65.536 color based one
 - a SVGA 32-bit 16.777.216 color based one
 
