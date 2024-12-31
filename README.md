@@ -41,7 +41,7 @@ That what is shown as the actual prompt.
 
 - ANSI one
 - ~non-ANSI one~
-  This is sadly not possible. A possibility is to have the source code or binary to a program to change the color using DOS interrupts.
+  This is sadly not possible. A possibility is to have the source code and/or binary to a program to change the color using DOS interrupts.
 
 ## TTY
 
